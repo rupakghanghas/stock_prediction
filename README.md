@@ -79,6 +79,7 @@ Stock price prediction remains a challenging yet fascinating domain in financial
 - Time Series Forecasting
   - Prophet
   - LSTM Neural Networks
+    
     ![image](https://github.com/user-attachments/assets/6aac39ca-2a39-4eb1-9897-cbbbbede1ac9)
 
 
