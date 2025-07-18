@@ -18,7 +18,7 @@ st.set_page_config(
 )
 
 # Title and description
-st.title("📈 Stock Price Predictor")
+st.title(" Stock Price Predictor")
 st.markdown("Predict stock prices using Facebook's Prophet forecasting model")
 
 # Sidebar for user inputs
@@ -426,4 +426,3 @@ else:
 
 # Footer
 st.markdown("---")
-st.markdown("**Disclaimer:** This is for educational purposes only. Not financial advice. Always consult with a financial advisor before making investment decisions.")
